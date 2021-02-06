@@ -1,0 +1,9 @@
+C:/Users/Laptop/Documents/cameracallibration/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Laptop/Documents/cameracallibration/build/CMakeFiles/Experimental.dir
+C:/Users/Laptop/Documents/cameracallibration/build/CMakeFiles/Continuous.dir
+C:/Users/Laptop/Documents/cameracallibration/build/CMakeFiles/Nightly.dir
+C:/Users/Laptop/Documents/cameracallibration/build/CMakeFiles/cameracalli.dir
+C:/Users/Laptop/Documents/cameracallibration/build/CMakeFiles/PACKAGE.dir
+C:/Users/Laptop/Documents/cameracallibration/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Laptop/Documents/cameracallibration/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Laptop/Documents/cameracallibration/build/CMakeFiles/ZERO_CHECK.dir

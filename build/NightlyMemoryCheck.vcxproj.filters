@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Laptop\Documents\cameracallibration\build\CMakeFiles\4bdcd47a1ef2d8c6cb04e179412f0fce\NightlyMemoryCheck.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Laptop\Documents\cameracallibration\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Laptop\Documents\cameracallibration\build\CMakeFiles\NightlyMemoryCheck" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{23DACAF1-4DAF-3FB9-A65E-9E0A1BDFADD7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

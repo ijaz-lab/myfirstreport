@@ -1,0 +1,10 @@
+^C:\USERS\LAPTOP\DOCUMENTS\CAMERACALLIBRATION\BUILD\CMAKEFILES\4BDCD47A1EF2D8C6CB04E179412F0FCE\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Laptop/Documents/cameracallibration -BC:/Users/Laptop/Documents/cameracallibration/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Laptop/Documents/cameracallibration/build/cvtest1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
